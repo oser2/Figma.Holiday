@@ -9,7 +9,7 @@ body{
     margin: 0 auto;
 }
 .wish{
-margin: 0px 0px 0px 150px;
+margin: -338px 0px 0px 140px;
 color: #A0ABAA;
 font-family: Montserrat;
 font-size: 30px;
@@ -17,4 +17,18 @@ font-style: normal;
 font-weight: 500;
 line-height: normal;
 text-transform: uppercase;
+}
+.agency{
+display: inline-block;
+margin: 501px 0px 0px 200px;
+color: #A0ABAA;
+font-family: Montserrat;
+font-size: 30px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: uppercase;
+}
+img{
+    margin: 335px 0px 0px 315px;
 }
