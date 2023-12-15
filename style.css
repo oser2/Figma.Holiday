@@ -1,0 +1,20 @@
+body{
+    background: #d5d3d3;
+}
+.card{
+    width: 1230px;
+    height: 693px;
+    flex-shrink: 0;
+    background-image: url(./bg.png);
+    margin: 0 auto;
+}
+.wish{
+margin: 0px 0px 0px 150px;
+color: #A0ABAA;
+font-family: Montserrat;
+font-size: 30px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: uppercase;
+}
