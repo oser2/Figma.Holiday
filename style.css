@@ -20,7 +20,7 @@ text-transform: uppercase;
 }
 .agency{
 display: inline-block;
-margin: 501px 0px 0px 200px;
+margin: 500px 0px 0px 200px;
 color: #A0ABAA;
 font-family: Montserrat;
 font-size: 30px;
@@ -30,5 +30,5 @@ line-height: normal;
 text-transform: uppercase;
 }
 img{
-    margin: 335px 0px 0px 315px;
+    margin: 330px 0px 0px 315px;
 }
